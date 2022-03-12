@@ -5,3 +5,4 @@
 
 > New build
 > Installing Kubectl
+> Deploy Nginx application
